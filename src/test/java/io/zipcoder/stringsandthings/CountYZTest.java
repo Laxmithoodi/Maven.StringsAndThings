@@ -14,6 +14,7 @@ public class CountYZTest {
 
     @Before
     public void setup(){
+
         stringsAndThings = new StringsAndThings();
     }
 
